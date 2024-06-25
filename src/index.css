@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(239, 245, 245);
+  padding: 10px;
+  min-width: 500px;
+  border: 2px solid grey;
+  min-height: 400px;
+  border-radius: 8px;
+}
+
+#input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.btn {
+  background-color: #1d3557;
+  color: white;
+  border: none;
+  padding: 10px 12px;
+  border-radius: 4px;
+}
+
+ul li {
+  font-size: 15px;
+}
+
+.link {
+  color: rgb(82, 78, 78);
+}
